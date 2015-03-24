@@ -1,17 +1,21 @@
-# instamojo-plugins
+Instamojo WooCommerce Plugin
 Plugins for Instamojo Payment Gateway
 
 WP-Instamojo helps you seamlessly integrate the popular Instamojo Payment Gateway into your WooCommerce based website. Payment collection was never so easy with WordPress.
 This section describes how to install the plugin and get it working.
 Please Note: Install WooCommerce First before installing this plugin.
+
 Once you have installed WooCommerce:
+
 1.	Download the plugin from (GitHub Link)
 2.	Install the plugin.
 3.	Activate the plugin through the 'Plugins' menu in WordPress.
+
 Once the plugin is installed and activated, you will be able to access the Settings of the Plugin.
 How to use the plugin? 
 
 Steps to Setup on Instamojo
+
 1.	Create a Payment Link for Services/Membership
 2.	Fill in the requisite details and under Price select Use 'Pay What You Want'
 3.	Goto Advance Setting; put in the Custom Redirection URL as:  YourWebsiteURL/checkout e.g. http://thecreatiwitty.com/checkout/
